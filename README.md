@@ -1,4 +1,4 @@
-# gameApp With Swift
+# Game App With Swift
 
 # What I Learned
 
